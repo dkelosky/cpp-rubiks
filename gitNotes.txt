@@ -1,0 +1,8 @@
+Create .gitignore
+git init
+git add .
+get remote add origin https://...
+git remote -v
+git put origin master
+git commit -m 'blah blah'
+git push origin master

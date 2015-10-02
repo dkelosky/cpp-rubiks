@@ -1,0 +1,30 @@
+[
+R, B, Y,
+O, Y, R,
+O, O, G
+],
+[
+B, W, R,
+B, B, G,
+Y, W, B
+],
+[
+O, R, W,
+O, W, G,
+W, R, Y
+],
+[
+G, B, R,
+Y, G, O,
+G, B, O
+]
+[
+R, Y, B,
+W, R, Y,
+W, G, Y
+]
+[
+O, R, G,
+Y, O, W,
+W, G, B
+]
